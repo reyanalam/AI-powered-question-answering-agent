@@ -13,6 +13,7 @@ This AI-powered question-answering agent can process documentation from help web
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/reyanalam/AI-powered-question-answering-agent.git
+cd AI-powered-question-answering-agent
 ```
 ### 2. Create and activate a virtual environment
 ```
