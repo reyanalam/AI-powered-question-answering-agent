@@ -4,4 +4,4 @@ urllib3
 tldextract
 spacy
 numpy
-sklearn
+scikit-learn
